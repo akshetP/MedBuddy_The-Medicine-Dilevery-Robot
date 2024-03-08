@@ -25,7 +25,7 @@ The application which is used to drive the car is created using MIT App Inventor
 ### 4. Side View of MedBuddy:
 ![](/Images/Side_view.jpeg)
 
-The code used in this project can be found [here.](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/MedBuddy_Code/MedBuddy.ino)
+The code used in this project can be found [here.](https://github.com/akshetP/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/MedBuddy_Code/MedBuddy.ino)
 ###### Note: This is a prototype of the prototype.
 
 #### ©The code, the pictures and the idea behind the project solely belong to me. Do not copy as it may lead to copyright infringement. If the code is to be used for research purposes please give the necessary credits or a shoutout.
